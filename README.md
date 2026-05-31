@@ -34,4 +34,4 @@ A modern blog web application built with Django that allows users to create, man
 - GitHub
 - VS Code
 
-## Project Structure
+
